@@ -56,3 +56,4 @@ print(vac1[:50])
 print(fdist1["whale"])
 # 输出前五十个词的累积频率图
 
+fdist1.plot(50)
